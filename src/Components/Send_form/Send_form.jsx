@@ -15,7 +15,7 @@ const Send_form = () => {
     const chat_id = "-1002243571873"; // Guruh ID sini shu yerda kiritish kerak
     const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
-    const message = `#Bibishox\nIsm: ${data.name}\nTel: ${data.tel}`;
+    const message = `#Kamalak\nIsm: ${data.name}\nTel: ${data.tel}`;
 
     try {
       const response = await fetch(url, {
