@@ -16,7 +16,7 @@ const Send_form = () => {
     const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
     const message = `#Kamalak\nIsm: ${data.name}\nTel: ${data.tel}`;
-
+    
     try {
       const response = await fetch(url, {
         method: "POST",

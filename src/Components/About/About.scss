@@ -214,24 +214,24 @@
 
             height: 100%;
             // border-radius: 16px;
-            border-radius:0px 1000px 1000px 0px;
-    
+            // border-radius:0px 1000px 1000px 0px;
+    border-radius: 16px;
             display: inline-block;
 
             // transform: scaleX(-1);
 
             @include media(1000px) {
-                border-radius:0px 500px 500px 0px;
+                // border-radius:0px 500px 500px 0px;
 
             }
 
             @include media(800px) {
-                border-radius:200px 0px 0px 200px;
+                // border-radius:200px 0px 0px 200px;
 
             }
 
             @include media(650px) {
-                border-radius:12px 160px 160px 12px;
+                // border-radius:12px 160px 160px 12px;
 
             }
         }

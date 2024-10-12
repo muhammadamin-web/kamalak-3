@@ -53,7 +53,7 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                      Farovonlik va baxtga to‘la, sokin hayotga ega bo‘ling
+                      Farovonlik va baxtga to‘la, <br /> sokin hayotga ega bo‘ling
                         </h3>
                         <p className="slidet_text2">
                         Kamalak — TXT Group kompaniyasi tomonidan Samarqand shahrida barpo etilayotgan zamonaviy va qulay turar-joy majmuas
