@@ -21,20 +21,21 @@ const Location = () => {
           <div className="location_card1" data-aos="fade-left" data-aos-offset="-200">
             <h3 className="location_title"> Loyiha joylashuvi</h3>
             <p className="location_text">
-            Kamalak turar-joy majmuasi Samarqandning jadal rivojlanayotgan hududida qurilmoqda va uning joylashuvi aholiga yuqori darajadagi qulayliklarni taqdim etadi. 
+              Kamalak turar-joy majmuasi Samarqandning jadal rivojlanayotgan hududida qurilmoqda va uning joylashuvi aholiga yuqori darajadagi qulayliklarni taqdim etadi.
 
             </p>
             <p className="location_text">
-            Majmua shahar markaziga yaqin bo‘lib, shahar markazidagi asosiy infratuzilma obyektlariga tez va oson yetib borish imkonini beradi. 
+              Majmua shahar markaziga yaqin boʻlib, shahar markazidagi asosiy infratuzilma obyektlariga tez va oson yetib borish imkonini beradi.
 
             </p>
             <p className="location_text">
-            Atrofdagi hudud ham tez sur’atlar bilan rivojlanib bormoqda, kelajakda yangi infratuzilma obyektlari va xizmat ko‘rsatish maskanlarining barpo etilishi kutilmoqda. Bu esa Kamalak'ni nafaqat qulay yashash maskani, balki uzoq muddatli sarmoya uchun ham foydali joyga aylantiradi.          </p>
+              Atrofdagi hudud ham tez surʼatlar bilan rivojlanib bormoqda, kelajakda yangi infratuzilma obyektlari va xizmat koʻrsatish maskanlarining barpo etilishi kutilmoqda. Bu esa Kamalakʼni nafaqat qulay yashash maskani, balki uzoq muddatli sarmoya uchun ham foydali joyga aylantiradi.
+            </p>
           </div>
           <div className="location_card2" data-aos="fade-left" data-aos-offset="-200">
             <p className="location_text2">
-          <span> Kamalak </span> — oila bagʻrida tinch va totuv hayot kechirish uchun moʻljallangan 
-            uylar. Har bir rezident uchun eng qulay imkoniyatlar taqdim etamiz.
+              <span> Kamalak </span> — oila bagʻrida tinch va totuv hayot kechirish uchun moʻljallangan
+              uylar. Har bir rezident uchun eng qulay imkoniyatlar taqdim etamiz.
             </p>
           </div>
         </div>
