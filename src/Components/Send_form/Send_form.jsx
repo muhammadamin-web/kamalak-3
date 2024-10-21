@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useState } from "react";
-import form from "../../assets/images/form.jpg";
+import form from "../../assets/images/location.jpg";
 
 const Send_form = () => {
   const [isChecked, setIsChecked] = useState(false);
